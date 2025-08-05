@@ -69,9 +69,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
+<h2 align="left">
+  📊 GitHub Stats
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmolawade&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
+
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmolawade&show_icons=true&locale=en&layout=compact" alt="yashmolawade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashmolawade&show_icons=true&locale=en" alt="yashmolawade" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashmolawade&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmolawade&" alt="yashmolawade" /></p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmolawade&" alt="GitHub Streak" />
+</div>
+
