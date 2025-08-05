@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Yash Hanamant Molawade</h1>
 <h3 align="center">🚀 Learning Full-Stack Development</h3>
 
+<!-- <img align="right" alt="Coding" width="400px" src="https://github.com/user-attachments/assets/7f59c38e-13cd-420f-9347-de917e152dc8" > -->
+<!-- <img align="right" alt="Coding" width="400px" src="https://github.com/user-attachments/assets/3591784b-93be-4609-a07a-9cef82efd663" />  -->
+<img align="right" alt="Coding" width="400px" src="https://github.com/user-attachments/assets/a03f52c0-e391-4277-8fc2-89f82e0210bc" />
+
+
+
 - 🔭 I’m currently working on [LetsChat](https://letschat-1-mnk2.onrender.com/login)
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
@@ -9,7 +15,7 @@
 
 - 🧠 Learning Platform Developed [LearnQuest](https://learn-quest-yash.netlify.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Express, REST APIs**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Express**
 
 - 📫 How to reach me **yashmolawade06@gmail.com**
 
