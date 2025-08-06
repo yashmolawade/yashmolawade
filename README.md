@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **yashmolawade06@gmail.com**
 
-- ⚡ Fun fact **Console.log and I are basically best friends.**
+- ⚡ Fun fact **console.log() has seen more of my code than anyone else.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
