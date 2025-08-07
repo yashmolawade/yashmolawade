@@ -1,4 +1,13 @@
-![logo](https://github.com/yashmolawade/yashmolawade/blob/main/Github%20Banner.png)
+
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/4b6efe4d-61f7-4d79-8fe6-3222eded1d76" 
+    alt="Programming" 
+    width="80%" 
+  />
+</p>
+
 
 <h1 align="center">Hi, I'm Yash Hanamant Molawade</h1>
 <h3 align="center">🚀 Learning Full-Stack Development</h3>
