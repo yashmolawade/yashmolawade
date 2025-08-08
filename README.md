@@ -10,7 +10,7 @@
 
 
 <h1 align="center">Hi, I'm Yash Hanamant Molawade</h1>
-<h3 align="center">🚀 Learning Full-Stack Development</h3>
+<h3 align="center">🚀 Aspiring MERN Developer</h3>
 <br/>
 <!-- <img align="right" alt="Coding" width="400px" src="https://github.com/user-attachments/assets/7f59c38e-13cd-420f-9347-de917e152dc8" > -->
 <!-- <img align="right" alt="Coding" width="400px" src="https://github.com/user-attachments/assets/3591784b-93be-4609-a07a-9cef82efd663" />  -->
